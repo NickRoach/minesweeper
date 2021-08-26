@@ -1,0 +1,4 @@
+//SAFE = -1
+//Clear = -2
+//MINE = -3
+//BOOM = -4
